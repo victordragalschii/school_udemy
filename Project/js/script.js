@@ -57,7 +57,7 @@
     // console.log(incr);
     // console.log(decr);
 
-    // console.log(5%2);
+    //console.log(5%2);
     // console.log(2 + 2 * 2 !== '8');
     // && - и
     // || - или
@@ -68,4 +68,7 @@
     //       console.log(isChecked && isClosed);
 
 
-// ---------Урок 10--------
+// ---------Урок 12--------
+
+const numberOfFilms = "Сколько фильмов вы уже посотрели";
+prompt(numberOfFilms)
